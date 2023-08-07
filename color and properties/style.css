@@ -3,12 +3,22 @@ body{
 }
 h1{
     color: blue;
-}
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    }
 h3{
     color: blueviolet;
+    font-variant:small-caps;
+    font-weight: normal;
+    font-size: 25px;
+}
+span{
+    font-weight: normal;
 }
 p{
     color: darkgreen;
+    font-weight: bold;
+    font-size: 25px;
 }
 ul{
     color: crimson;
