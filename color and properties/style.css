@@ -1,5 +1,14 @@
+html{
+    background: white;
+}
 body{
     background-color: pink;
+    background-image: url(pic.jfif);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: top right ;
+    height: 500px;
+    width: 500px;
 }
 h1{
     color: blue;
